@@ -68,9 +68,9 @@ Tools: `Python`, `Google Apps Script`, automation frameworks
 
 ## 📬 Connect With Me
 
-🔗 LinkedIn: [Your LinkedIn URL]  
+🔗 LinkedIn: [www.linkedin.com/in/ahmed-raza-jafri]  
 🌐 Portfolio: [Your Website URL]  
-📧 Email: your.email@email.com  
+📧 Email: ahmed_jafri94@hotmail.com  
 
 ---
 
