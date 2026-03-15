@@ -1,5 +1,5 @@
 # Hi, I'm Ahmed Jafri 👋  
-### Machine Learning | AI Engineer | Applied Data Scientist  
+### Engineer | Problem Solver | Data Oriented
 
 ## 👨‍💻 About Me
 
