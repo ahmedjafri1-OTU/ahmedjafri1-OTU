@@ -1,123 +1,57 @@
 # Hi, I'm Ahmed Jafri 👋  
 ### Machine Learning | AI Engineer | Applied Data Scientist  
 
-🚀 Strong engineering mindset with AI integration skills.  
-🔬 MASc in Mechanical Engineering (Applied Modeling & Experimental Research)  
-🧠 Focused on building production-ready ML systems and intelligent automation tools.  
-
----
-
 ## 👨‍💻 About Me
 
-I am an applied Machine Learning Engineer with a background in engineering research and industrial automation.
+Machine Learning Engineer with a background in applied engineering research.
 
-My work bridges:
-- 📊 Data Science & Statistical Modeling  
-- 🤖 Machine Learning & Deep Learning  
-- 🔍 Computer Vision & Image Processing  
-- 🧠 LLM & Transformer-based Systems  
-- 🏭 Industrial Workflow Automation  
+I specialize in building **data-driven systems that move from experimentation to production**.
 
-I enjoy building systems that move from **theory → experimentation → deployment → measurable impact.**
-
----
-
-## 🎓 Research & Applied ML Background
-
-### MASc Research Highlights
-- Linear & Multivariate Regression for energy modeling
-- Logistic Regression with Gradient Descent implementation
-- Grad-CAM for CNN model interpretability
-- Image processing for text extraction and classification
-- Experimental validation + simulation-based modeling
-
-I combine mathematical understanding with implementation-level depth.
+### Focus Areas
+- Machine Learning & Deep Learning
+- Data Science & Statistical Modeling
+- Computer Vision & Image Processing
+- LLM & Transformer-based Applications
+- Automation & Intelligent Systemsh.
 
 ---
 
-## 🧠 Machine Learning Expertise
+## 🤖 Machine Learning & AI Expertise
 
-**Core ML**
-- Logistic Regression
-- PCA (Dimensionality Reduction)
-- K-Nearest Neighbors (KNN)
-- Random Forest
-- Support Vector Machines (SVM)
-- Gradient Boosting
-- XGBoost
+| Category | Capabilities |
+|---------|-------------|
+| 🧠 **Core ML Algorithms** | Logistic Regression, PCA, KNN, Random Forest, SVM, Gradient Boosting, XGBoost |
+| 🔬 **Deep Learning** | CNN, RNN, Transformer Architectures, LLM Integration, Hugging Face |
+| ⚙️ **ML Concepts** | Feature Engineering, Model Interpretability, Bias–Variance Tradeoff, Cross-Validation, Hyperparameter Tuning, ML Pipelines |
 
-**Deep Learning**
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Transformer Architectures
-- LLM Integration
-- Hugging Face ecosystem
-
-**ML Concepts**
-- Feature engineering
-- Model interpretability
-- Bias-variance tradeoff
-- Cross-validation
-- Hyperparameter tuning
-- Pipeline building
-- Deployment thinking
 
 ---
 
 ## 🛠 Technical Stack
 
-**Languages & Core Tools**
-- Python  
-- SQL  
-
-**ML & Data**
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- PyTorch  
-- TensorFlow  
-- Seaborn  
-- Matplotlib  
-
-**Deployment & Apps**
-- Streamlit  
-- Hugging Face  
-- LLM APIs  
-
-**Automation & Integration**
-- Google Apps Script  
-- Workflow Automation Systems  
-
-**BI & Visualization**
-- Power BI  
+| Area | Tools |
+|-----|------|
+| 💻 Languages | Python, SQL |
+| 🤖 Machine Learning | Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow |
+| 📊 Visualization | Seaborn, Matplotlib |
+| 🚀 Deployment | Streamlit, Hugging Face, LLM APIs |
+| ⚙️ Automation | Google Apps Script, Workflow Automation |
+| 📈 BI | Power BI |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌦 Canada Weather Intelligence Dashboard
-Streamlit-based interactive dashboard:
-- Multi-location weather comparison
-- Historical climate analysis
-- Wind rose visualization
-- Time-series comparison
-- API integration + geocoding
-
-Tech: `Python`, `Streamlit`, `APIs`, `Data Visualization`
-
----
-
-### 📊 End-to-End ML Classification Pipeline
-Built a structured ML workflow including:
-- Data preprocessing
-- Standardization
-- PCA
-- Model comparison (Logistic, KNN, RF, SVM)
-- Cross-validation
-- Performance metrics
-- Model interpretation
-
-Focus: clean pipeline design & reproducibility.
+| Project | Description | Technologies |
+|--------|-------------|-------------|
+| 🌦 **Canada Weather Intelligence Dashboard** | Interactive dashboard for analyzing historical weather trends across Canada with seasonal analysis, wind rose plots, and statistical visualizations. | Python, Streamlit, APIs, Folium |
+| 🍄 **Mushroom Classification App** | Machine learning application predicting whether mushrooms are edible or poisonous using multiple classification models and evaluation metrics. | Python, Streamlit, Scikit-learn |
+| ✈ **Twitter Airline Sentiment Dashboard** | Dashboard analyzing passenger sentiment for major U.S. airlines using Twitter data and interactive visualizations. | Python, Streamlit, NLP |
+| 🏠 **Real Estate Price Prediction** | Neural network model predicting housing prices using deep learning regression techniques. | Python, TensorFlow |
+| 🌍 **World Happiness Clustering Analysis** | Unsupervised learning project applying K-Means clustering to identify patterns in global happiness indicators. | Python, Scikit-learn |
+| 📊 **Customer Ad Click Prediction** | Predictive modeling comparing Logistic Regression and XGBoost to determine ad click likelihood. | Python, XGBoost, Scikit-learn |
+| 🧠 **Machine Learning Classification Study** | End-to-end ML workflow including preprocessing, normalization, model training, and evaluation. | Python, Pandas, NumPy |
+| 📈 **Exploratory Data Analysis Toolkit** | Data exploration project analyzing correlations and feature relationships using statistical visualizations. | Python, Seaborn, Matplotlib |
 
 ---
 
@@ -130,25 +64,6 @@ Designed and implemented:
 
 Tools: `Python`, `Google Apps Script`, automation frameworks
 
----
-
-### 🤖 LLM & Transformer Applications
-- Prompt-engineered LLM pipelines
-- Hugging Face model experimentation
-- NLP-based automation workflows
-- Context-aware AI integration into dashboards
-
----
-
-## 📈 What I Bring
-
-✔ Strong mathematical foundation  
-✔ Engineering-level problem solving  
-✔ Industry automation mindset  
-✔ Production-oriented ML thinking  
-✔ Clean code & structured pipelines  
-
-I build AI systems that solve real-world problems.
 
 ---
 
