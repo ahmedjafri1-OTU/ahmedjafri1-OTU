@@ -42,17 +42,16 @@ I specialize in building **data-driven systems that move from experimentation to
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|--------|-------------|-------------|
-| 🌦 **[Canada Weather Intelligence Dashboard](https://github.com/ahmedjafri1-OTU/Canada-Weather-Dashboard)** | Interactive dashboard for analyzing historical weather trends across Canada with seasonal analysis, wind rose plots, and statistical visualizations. | Python, Streamlit, APIs, Folium |
-| 🍄 **Mushroom Classification App(https://github.com/ahmedjafri1-OTU/World-Happiness)** | Machine learning application predicting whether mushrooms are edible or poisonous using multiple classification models and evaluation metrics. | Python, Streamlit, Scikit-learn |
-| ✈ **Twitter Airline Sentiment Dashboard(https://github.com/ahmedjafri1-OTU/US-Airline-Sentiment-Analysis)** | Dashboard analyzing passenger sentiment for major U.S. airlines using Twitter data and interactive visualizations. | Python, Streamlit, NLP |
-| 🏠 **Real Estate Price Prediction(https://github.com/ahmedjafri1-OTU/Real-Estate-Price-Prediction)** | Neural network model predicting housing prices using deep learning regression techniques. | Python, TensorFlow |
-| 🌍 **World Happiness Clustering Analysis(https://github.com/ahmedjafri1-OTU/World-Happiness)** | Unsupervised learning project applying K-Means clustering to identify patterns in global happiness indicators. | Python, Scikit-learn |
-| 📊 **Customer Ad Click Prediction(https://github.com/ahmedjafri1-OTU/Logistics-Regression-and-XG-boost---Predict-Customer-Ad-Clicks-)** | Predictive modeling comparing Logistic Regression and XGBoost to determine ad click likelihood. | Python, XGBoost, Scikit-learn |
-| 🧠 **Machine Learning Classification Study(https://github.com/ahmedjafri1-OTU/Binary-Classification)** | End-to-end ML workflow including preprocessing, normalization, model training, and evaluation. | Python, Pandas, NumPy |
-| 📈 **Exploratory Data Analysis Toolkit(https://github.com/ahmedjafri1-OTU/Cancer-Prediction-using-XGBoost)** | Data exploration project analyzing correlations and feature relationships using statistical visualizations. | Python, Seaborn, Matplotlib |
-
+| Project | Description 
+|--------|-------------|
+| 🌦 **[Canada Weather Intelligence Dashboard](https://github.com/ahmedjafri1-OTU/Canada-Weather-Dashboard)** | Interactive dashboard for analyzing historical weather trends across Canada with seasonal analysis, wind rose plots, and statistical visualizations. 
+| 🍄 **[Mushroom Classification App](https://github.com/ahmedjafri1-OTU/World-Happiness)** | Machine learning application predicting whether mushrooms are edible or poisonous using multiple classification models and evaluation metrics.
+| ✈ **[Twitter Airline Sentiment Dashboard](https://github.com/ahmedjafri1-OTU/US-Airline-Sentiment-Analysis)** | Dashboard analyzing passenger sentiment for major U.S. airlines using Twitter data and interactive visualizations. 
+| 🏠 **[Real Estate Price Prediction](https://github.com/ahmedjafri1-OTU/Real-Estate-Price-Prediction)** | Neural network model predicting housing prices using deep learning regression techniques.
+| 🌍 **[World Happiness Clustering Analysis](https://github.com/ahmedjafri1-OTU/World-Happiness)** | Unsupervised learning project applying K-Means clustering to identify patterns in global happiness indicators. 
+| 📊 **[Customer Ad Click Prediction](https://github.com/ahmedjafri1-OTU/Logistics-Regression-and-XG-boost---Predict-Customer-Ad-Clicks-)** | Predictive modeling comparing Logistic Regression and XGBoost to determine ad click likelihood. 
+| 🧠 **[Machine Learning Classification Study](https://github.com/ahmedjafri1-OTU/Binary-Classification)** | End-to-end ML workflow including preprocessing, normalization, model training, and evaluation.
+| 📈 **[Exploratory Data Analysis Toolkit](https://github.com/ahmedjafri1-OTU/Cancer-Prediction-using-XGBoost)** | Data exploration project analyzing correlations and feature relationships using statistical visualizations. 
 ---
 
 ### 🏭 Industrial Workflow Automation
