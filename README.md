@@ -44,6 +44,8 @@ I specialize in building **data-driven systems that move from experimentation to
 
 | Project | Description 
 |--------|-------------|
+|  **[Key Words Screening](https://github.com/ahmedjafri1-OTU/Key-Words-Screening)** | Extracted text to create vector embedding and used cosine similarity.
+|  **[Image Captioning App](https://github.com/ahmedjafri1-OTU/Image-Captioning-App)** | Used BlIB and transfer learning to generate natural language description to images
 | 🌦 **[Canada Weather Intelligence Dashboard](https://github.com/ahmedjafri1-OTU/Canada-Weather-Dashboard)** | Interactive dashboard for analyzing historical weather trends across Canada with seasonal analysis, wind rose plots, and statistical visualizations. 
 | 🍄 **[Mushroom Classification App](https://github.com/ahmedjafri1-OTU/World-Happiness)** | Machine learning application predicting whether mushrooms are edible or poisonous using multiple classification models and evaluation metrics.
 | ✈ **[Twitter Airline Sentiment Dashboard](https://github.com/ahmedjafri1-OTU/US-Airline-Sentiment-Analysis)** | Dashboard analyzing passenger sentiment for major U.S. airlines using Twitter data and interactive visualizations. 
