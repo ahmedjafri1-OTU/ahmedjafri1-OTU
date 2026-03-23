@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Machine Learning Engineer with a background in applied engineering research.
+Engineer with passion of improving workfows usingf Machine Learning and Deep leanring techniques in day to day life operations.
 
 I specialize in building **data-driven systems that move from experimentation to production**.
 
@@ -71,7 +71,6 @@ Tools: `Python`, `Google Apps Script`, automation frameworks
 ## 📬 Connect With Me
 
 🔗 LinkedIn: [www.linkedin.com/in/ahmed-raza-jafri]  
-🌐 Portfolio: [Your Website URL]  
 📧 Email: ahmed_jafri94@hotmail.com  
 
 ---
