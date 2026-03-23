@@ -52,7 +52,7 @@ I specialize in building **data-driven systems that move from experimentation to
 | 🏠 **[Real Estate Price Prediction](https://github.com/ahmedjafri1-OTU/Real-Estate-Price-Prediction)** | Neural network model predicting housing prices using deep learning regression techniques.
 | 🌍 **[World Happiness Clustering Analysis](https://github.com/ahmedjafri1-OTU/World-Happiness)** | Unsupervised learning project applying K-Means clustering to identify patterns in global happiness indicators. 
 | 📊 **[Customer Ad Click Prediction](https://github.com/ahmedjafri1-OTU/Logistics-Regression-and-XG-boost---Predict-Customer-Ad-Clicks-)** | Predictive modeling comparing Logistic Regression and XGBoost to determine ad click likelihood. 
-| 🧠 **[Machine Learning Classification Study](https://github.com/ahmedjafri1-OTU/Binary-Classification)** | End-to-end ML workflow including preprocessing, normalization, model training, and evaluation.
+| 🧠 **[Machine Learning Classification Study](https://github.com/ahmedjafri1-OTU/Binary-Classificationn)** | End-to-end ML workflow including preprocessing, normalization, model training, and evaluation.
 | 📈 **[Exploratory Data Analysis Toolkit](https://github.com/ahmedjafri1-OTU/Cancer-Prediction-using-XGBoost)** | Data exploration project analyzing correlations and feature relationships using statistical visualizations. 
 ---
 
